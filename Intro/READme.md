@@ -1,0 +1,1 @@
+```bashhttps://app.codesignal.com/```After Registration```bashhttps://app.codesignal.com/arcade/intro```## These are the issues in the Intro Module of the signal site
